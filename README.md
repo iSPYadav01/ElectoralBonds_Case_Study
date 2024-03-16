@@ -29,6 +29,13 @@ This repository contains code snippets and analyses related to electoral bonds d
    - This analysis involves subtracting the values of Data_Part1 from Data_Part2 to understand the difference between purchased and encashed electoral bonds.
    - The resulting difference indicates the net outstanding bonds or discrepancies between purchased and encashed bonds.
 
+4. **Encashment Trend Analysis**
+   - This analysis examines the trend of encashment of electoral bonds over time, from 2019 to 2023, providing insights into the patterns and fluctuations in bond encashment.
+
+5. **Party-wise Encashment Analysis**
+   - This analysis focuses on the total encashment of electoral bonds by the top three political parties, namely Bharatiya Janata Party (BJP), All India Trinamool Congress (AITC), and President, All India Congress Committee (AICC), for each year from 2019 to 2023.
+   - It helps in understanding the distribution of electoral bond encashments among the major political parties.
+
 #### Instructions
 
 To run the code snippets provided:

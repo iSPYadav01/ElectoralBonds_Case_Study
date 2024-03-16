@@ -50,6 +50,7 @@ To run the code snippets provided:
 https://github.com/iSPYadav01/ElectoralBonds_Case_Study.git
 
 ===
+#### BJP_Denomination_vs_Month_2019
 ![BJP_Denomination_vs_Month_2019](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/BJP_Denomination_vs_Month_2019.png)
 ![BJP_Denomination_vs_Month_2020](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/BJP_Denomination_vs_Month_2020.png)
 ![BJP_Denomination_vs_Month_2021](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/BJP_Denomination_vs_Month_2021.png)

@@ -41,6 +41,8 @@ understand the distribution of money in each denom
    - This analysis focuses on the total encashment of electoral bonds by the top three political parties, namely Bharatiya Janata Party (BJP), All India Trinamool Congress (AITC), and President, All India Congress Committee (AICC), for each year from 2019 to 2023.
    - It helps in understanding the distribution of electoral bond encashments among the major political parties.
 
+![Denomination vs Month](exported_images/Denomination_vs_Month.png)
+
 #### Instructions
 
 To run the code snippets provided:

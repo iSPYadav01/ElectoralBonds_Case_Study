@@ -1,6 +1,10 @@
 ### Electoral Bonds Analysis
 #### By : [iSPYadav01](https://github.com/iSPYadav01)
 
+##### [Image Source](https://www.businesstoday.in/india/story/election-commission-will-disclose-all-details-on-electoral-bonds-in-time-cec-rajiv-kumar-421348-2024-03-13)
+
+![electoral-bonds](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/image/bond_title.png)
+
 This repository contains code snippets and analyses related to electoral bonds data. Electoral bonds are financial instruments used for making donations to political parties in India. The data used in this analysis includes two datasets: Data_Part1 and Data_Part2.
 
 ### [Datasets](https://www.eci.gov.in/disclosure-of-electoral-bonds)

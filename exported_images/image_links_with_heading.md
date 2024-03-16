@@ -94,8 +94,8 @@
 #### Top_20_Purchasers_by_Total_Denomination
 ![Top_20_Purchasers_by_Total_Denomination](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Top_20_Purchasers_by_Total_Denomination.png)
 
-#### Total Denomination from Purchaser vs Political Parties
-![Total Denomination from Purchaser vs Political Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Total_Denomination_from_Purchaser_vs_Political_Parties.png)
+#### Total_Denomination_from_Purchaser_vs_Political_Parties
+![Total_Denomination_from_Purchaser_vs_Political_Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Total_Denomination_from_Purchaser_vs_Political_Parties.png)
 
 #### Total_Encashment_Top_3_Parties
 ![Total_Encashment_Top_3_Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Total_Encashment_Top_3_Parties.png)

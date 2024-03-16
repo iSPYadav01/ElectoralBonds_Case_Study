@@ -66,14 +66,14 @@ https://github.com/iSPYadav01/ElectoralBonds_Case_Study.git
 #### Least_20_Purchasers_by_Total_Denomination
 ![Least_20_Purchasers_by_Total_Denomination](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Least_20_Purchasers_by_Total_Denomination.png)
 
-#### Total Denomination from Purchaser vs Political Parties
-![Total Denomination from Purchaser vs Political Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Total_Denomination_from_Purchaser_vs_Political_Parties.png)
+#### Total_Denomination_from_Purchaser_vs_Political_Parties
+![Total_Denomination_from_Purchaser_vs_Political_Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Total_Denomination_from_Purchaser_vs_Political_Parties.png)
 
 #### Total_Encashment_Top_3_Parties
 ![Total_Encashment_Top_3_Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Total_Encashment_Top_3_Parties.png)
 
 #### Total_Number_of_Bond_from_Purchaser_vs_Political_Parties
-![Total_Number_of_Bond_from_Purchaser_vs_Political_Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Total_Number_of_Bond_from_Purchaser_vs_Political_Parties.png)
+![Total_Denomination_from_Purchaser_vs_Political_Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Total_Number_of_Bond_from_Purchaser_vs_Political_Parties.png)
 
 #### Year-wise_Encashment_Trend_Top_3_Parties
 ![Year-wise_Encashment_Trend_Top_3_Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Year-wise_Encashment_Trend_Top_3_Parties.png)

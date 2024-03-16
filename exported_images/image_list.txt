@@ -1,0 +1,40 @@
+BJP_Denomination_vs_Month_2019.png
+BJP_Denomination_vs_Month_2020.png
+BJP_Denomination_vs_Month_2021.png
+BJP_Denomination_vs_Month_2022.png
+BJP_Denomination_vs_Month_2023.png
+Comparison of Total Number of Bond from Purchaser and Political Party.png
+Count of Purchases by Purchaser and Denomination.png
+Denomination vs Month for Political Party.png
+Denomination vs Year for Data_Part1.png
+Denomination vs Year for Political Party.png
+Denomination_vs_Month.png
+Denomination_vs_Month_2019.png
+Denomination_vs_Month_2020.png
+Denomination_vs_Month_2021.png
+Denomination_vs_Month_2022.png
+Denomination_vs_Month_2023.png
+Denomination_vs_Month_2024.png
+Denomination_vs_Quarter.png
+Encashment Trend for 2019.png
+Encashment Trend for 2020.png
+Encashment Trend for 2021.png
+Encashment Trend for 2022.png
+Encashment Trend for 2023.png
+Encashment_Trend_ALL INDIA TRINAMOOL CONGRESS.png
+Encashment_Trend_BHARTIYA JANTA PARTY.png
+Encashment_Trend_PRESIDENT, ALL INDIA CONGRESS COMMITTEE.png
+Encashment_Trend_Top3_Parties_2019.png
+Encashment_Trend_Top3_Parties_2020.png
+Encashment_Trend_Top3_Parties_2021.png
+Encashment_Trend_Top3_Parties_2022.png
+Encashment_Trend_Top3_Parties_2023.png
+image_list.txt
+Least 20 Purchasers by Total Denomination.png
+Top 20 Name of the Political Party by Total Denomination.png
+Top 20 Purchasers by Total Denomination.png
+Total Denomination from Purchaser vs Political Parties.png
+Total Number of Bond from Purchaser vs Political Parties.png
+Total_Encashment_Top_3_Parties.png
+Year-wise_Encashment_Trend_Top_3_Parties.png
+Year_wise_Encashment_Trend_Top_3_Parties.png

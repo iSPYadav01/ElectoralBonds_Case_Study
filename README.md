@@ -21,6 +21,11 @@ This repository contains code snippets and analyses related to electoral bonds d
    - This analysis involves calculating the total denomination of electoral bonds from both Data_Part1 and Data_Part2.
    - The code snippets include pandas operations to sum the denominations and visualize the total denomination by different categories such as purchaser and political party.
 
+Comparison of Total Number of Bond from Purchaser and Political Party.png - 
+   - This graph shows the comparison between total number of
+The total denomination analysis is performed to
+understand the distribution of money in each denom
+
 2. **Total Number of Rows Analysis**
    - This analysis focuses on counting the total number of rows in Data_Part1 and Data_Part2.
    - It provides insights into the volume of data available in each dataset and helps in understanding the dataset's completeness.

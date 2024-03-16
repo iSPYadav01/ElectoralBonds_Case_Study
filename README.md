@@ -50,8 +50,8 @@ To run the code snippets provided:
 https://github.com/iSPYadav01/ElectoralBonds_Case_Study.git
 
 ===
-{: .white_bg }
 
+{: .white_bg }
 #### BJP_Denomination_vs_Month_2019
 ![BJP_Denomination_vs_Month_2019](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/BJP_Denomination_vs_Month_2019.png)
 
@@ -67,20 +67,11 @@ https://github.com/iSPYadav01/ElectoralBonds_Case_Study.git
 #### BJP_Denomination_vs_Month_2023
 ![BJP_Denomination_vs_Month_2023](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/BJP_Denomination_vs_Month_2023.png)
 
-#### Comparison of Total Number of Bond from Purchaser and Political Party
-![Comparison of Total Number of Bond from Purchaser and Political Party](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Comparison of Total Number of Bond from Purchaser and Political Party.png)
+#### Comparison_of_Total_Number_of_Bond_from_Purchaser_and_Political_Party
+![Comparison_of_Total_Number_of_Bond_from_Purchaser_and_Political_Party](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Comparison_of_Total_Number_of_Bond_from_Purchaser_and_Political_Party.png)
 
-#### Count of Purchases by Purchaser and Denomination
-![Count of Purchases by Purchaser and Denomination](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Count of Purchases by Purchaser and Denomination.png)
-
-#### Denomination vs Month for Political Party
-![Denomination vs Month for Political Party](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Denomination vs Month for Political Party.png)
-
-#### Denomination vs Year for Data_Part1
-![Denomination vs Year for Data_Part1](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Denomination vs Year for Data_Part1.png)
-
-#### Denomination vs Year for Political Party
-![Denomination vs Year for Political Party](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Denomination vs Year for Political Party.png)
+#### Count_of_Purchases_by_Purchaser_and_Denomination
+![Count_of_Purchases_by_Purchaser_and_Denomination](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Count_of_Purchases_by_Purchaser_and_Denomination.png)
 
 #### Denomination_vs_Month
 ![Denomination_vs_Month](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Denomination_vs_Month.png)
@@ -103,17 +94,26 @@ https://github.com/iSPYadav01/ElectoralBonds_Case_Study.git
 #### Denomination_vs_Month_2024
 ![Denomination_vs_Month_2024](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Denomination_vs_Month_2024.png)
 
+#### Denomination_vs_Month_for_Political_Party
+![Denomination_vs_Month_for_Political_Party](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Denomination_vs_Month_for_Political_Party.png)
+
 #### Denomination_vs_Quarter
 ![Denomination_vs_Quarter](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Denomination_vs_Quarter.png)
 
-#### Encashment_Trend_ALL INDIA TRINAMOOL CONGRESS
-![Encashment_Trend_ALL INDIA TRINAMOOL CONGRESS](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Encashment_Trend_ALL INDIA TRINAMOOL CONGRESS.png)
+#### Denomination_vs_Year_for_Data_Part1
+![Denomination_vs_Year_for_Data_Part1](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Denomination_vs_Year_for_Data_Part1.png)
 
-#### Encashment_Trend_BHARTIYA JANTA PARTY
-![Encashment_Trend_BHARTIYA JANTA PARTY](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Encashment_Trend_BHARTIYA JANTA PARTY.png)
+#### Denomination_vs_Year_for_Political_Party
+![Denomination_vs_Year_for_Political_Party](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Denomination_vs_Year_for_Political_Party.png)
 
-#### Encashment_Trend_PRESIDENT, ALL INDIA CONGRESS COMMITTEE
-![Encashment_Trend_PRESIDENT, ALL INDIA CONGRESS COMMITTEE](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Encashment_Trend_PRESIDENT, ALL INDIA CONGRESS COMMITTEE.png)
+#### Encashment_Trend_ALL_INDIA_TRINAMOOL_CONGRESS
+![Encashment_Trend_ALL_INDIA_TRINAMOOL_CONGRESS](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Encashment_Trend_ALL_INDIA_TRINAMOOL_CONGRESS.png)
+
+#### Encashment_Trend_BHARTIYA_JANTA_PARTY
+![Encashment_Trend_BHARTIYA_JANTA_PARTY](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Encashment_Trend_BHARTIYA_JANTA_PARTY.png)
+
+#### Encashment_Trend_PRESIDENT_ALL_INDIA_CONGRESS_COMMITTEE
+![Encashment_Trend_PRESIDENT_ALL_INDIA_CONGRESS_COMMITTEE](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Encashment_Trend_PRESIDENT_ALL_INDIA_CONGRESS_COMMITTEE.png)
 
 #### Encashment_Trend_Top3_Parties_2019
 ![Encashment_Trend_Top3_Parties_2019](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Encashment_Trend_Top3_Parties_2019.png)
@@ -130,26 +130,23 @@ https://github.com/iSPYadav01/ElectoralBonds_Case_Study.git
 #### Encashment_Trend_Top3_Parties_2023
 ![Encashment_Trend_Top3_Parties_2023](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Encashment_Trend_Top3_Parties_2023.png)
 
-#### image_list
-![image_list](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/image_list.txt)
+#### Least_20_Purchasers_by_Total_Denomination
+![Least_20_Purchasers_by_Total_Denomination](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Least_20_Purchasers_by_Total_Denomination.png)
 
-#### Least 20 Purchasers by Total Denomination
-![Least 20 Purchasers by Total Denomination](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Least 20 Purchasers by Total Denomination.png)
+#### Top_20_Name_of_the_Political_Party_by_Total_Denomination
+![Top_20_Name_of_the_Political_Party_by_Total_Denomination](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Top_20_Name_of_the_Political_Party_by_Total_Denomination.png)
 
-#### Top 20 Name of the Political Party by Total Denomination
-![Top 20 Name of the Political Party by Total Denomination](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Top 20 Name of the Political Party by Total Denomination.png)
-
-#### Top 20 Purchasers by Total Denomination
-![Top 20 Purchasers by Total Denomination](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Top 20 Purchasers by Total Denomination.png)
+#### Top_20_Purchasers_by_Total_Denomination
+![Top_20_Purchasers_by_Total_Denomination](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Top_20_Purchasers_by_Total_Denomination.png)
 
 #### Total Denomination from Purchaser vs Political Parties
-![Total Denomination from Purchaser vs Political Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Total Denomination from Purchaser vs Political Parties.png)
-
-#### Total Number of Bond from Purchaser vs Political Parties
-![Total Number of Bond from Purchaser vs Political Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Total Number of Bond from Purchaser vs Political Parties.png)
+![Total Denomination from Purchaser vs Political Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Total_Denomination_from_Purchaser_vs_Political_Parties.png)
 
 #### Total_Encashment_Top_3_Parties
 ![Total_Encashment_Top_3_Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Total_Encashment_Top_3_Parties.png)
+
+#### Total_Number_of_Bond_from_Purchaser_vs_Political_Parties
+![Total_Number_of_Bond_from_Purchaser_vs_Political_Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Total_Number_of_Bond_from_Purchaser_vs_Political_Parties.png)
 
 #### Year-wise_Encashment_Trend_Top_3_Parties
 ![Year-wise_Encashment_Trend_Top_3_Parties](https://github.com/iSPYadav01/ElectoralBonds_Case_Study/blob/main/exported_images/Year-wise_Encashment_Trend_Top_3_Parties.png)
